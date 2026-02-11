@@ -1,0 +1,7 @@
+{
+  "name": "Personal Fashion Advisor",
+  "description": "An intelligent AI-powered fashion styling platform that provides personalized styling insights, skin tone analysis, outfit recommendations, along shopping links.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
